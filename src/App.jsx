@@ -91,7 +91,15 @@ function App() {
           }}>
           <div>
             <h1 style={{ textAlign: 'center', margin: 0 }}>RALU</h1>
-            <h1 style={{ fontSize: 40, margin: 0 }}> Will you be my Valentine? ❤️</h1>
+            <h1 style={{
+              // display: 'flex',
+              // justifyContent: 'center',
+              textAlign: 'center',
+              fontSize: 40,
+              margin: 0
+            }}>
+              Will you be my Valentine? ❤️
+              </h1>
           </div>
           <img src='images/question-cat.jpg'
             style={{
