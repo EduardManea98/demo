@@ -1,0 +1,1 @@
+@font-face{font-family:Valentine;src:url(/fonts/Valentine.ttf) format("truetype");font-weight:400;font-style:normal}html,body,#root{overflow:hidden;margin:0;padding:0;height:100%;width:100%;display:flex;font-family:Valentine,sans-serif}#root{background-image:url(/images/mileu-background.jpg);background-size:cover;background-position:center;background-repeat:no-repeat}
